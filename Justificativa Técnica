@@ -1,0 +1,6 @@
+Para o desenvolvimento da vitrine digital da TechSolutions, utilizei a tag <h1> para destacar o nome
+da empresa e tags <h2> para organizar a hierarquia das seções. O conteúdo textual foi estruturado com a tag <p>,
+garantindo clareza na apresentação. Os serviços e a equipe foram listados utilizando as tags <ul> e <ol> para 
+organizar as informações de forma semântica. Para a parte visual, utilizei a tag <img> com caminhos relativos 
+aos arquivos de imagem hospedados no próprio repositório, garantindo a integridade visual da startup. Por fim, 
+apliquei a tag <a> para os links de rede social e localização, assegurando a interatividade exigida no desafio.
